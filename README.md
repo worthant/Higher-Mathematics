@@ -12,3 +12,9 @@
 - [Lectures](./Линал%20|%20Лекция.pdf)
 - [Practical classes](./Линал%20|%20Практика%20.pdf)
 - [Homework](./Линал%20|%20ДЗ.pdf)
+
+```
+it's okay to not understand  
+it's not okay to not try to understand)
+©Boris Dvorkin
+```
