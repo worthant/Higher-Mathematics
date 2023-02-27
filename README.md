@@ -11,3 +11,4 @@
 **Linear algebra**:
 - [Lectures](./Линал%20|%20Лекция.pdf)
 - [Practical classes](./Линал%20|%20Практика%20.pdf)
+- [Homework](./Линал%20|%20ДЗ.pdf)
