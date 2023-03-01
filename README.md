@@ -4,8 +4,8 @@
 **Coming soon**: linal & matan homework (teacher said to upload only after practises)
 
 **Mathematical analysis**:
-- [Lectures](./Матан%20|%20Лекция%20.pdf)
-- [Practical classes](./Матан%20|%20Практика%20.pdf)
+- [Lectures](./Матан%20|%20Лекция.pdf)
+- [Practical classes](./Матан%20|%20Практика.pdf)
 - [Homework](./Матан%20|%20ДЗ.pdf)
 
 **Linear algebra**:
