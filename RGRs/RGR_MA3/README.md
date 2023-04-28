@@ -1,8 +1,7 @@
 # РГР по матанализу №3
-|||
-|-|-|
-|Условие|[task](./docs/task.pdf)|
-|РГР|[task](./docs/RGR_MA3.pdf)|
+|var|task|RGR|
+|-|-|-|
+|#3|[task](./docs/task.pdf)|[RGR](./docs/RGR_MA3.pdf)|
 
 ||Автор|Задание|
 |-|-|-|
