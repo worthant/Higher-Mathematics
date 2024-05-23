@@ -3,7 +3,8 @@
 This repository is for storing my handwritten or LaTeX notes, labs, and projects
 of Higher Mathematics during my studies at ITMO University.
 
-> [!IMPORTANT] To clone and use this repository files locally, you need to have
+> [!IMPORTANT]
+> To clone and use this repository files locally, you need to have
 > [Git LFS](https://git-lfs.github.com/) installed, as all PDF and PNG files are
 > stored using Git LFS.
 
