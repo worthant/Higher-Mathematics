@@ -1,0 +1,3 @@
+[submodule "Optimisation-Algorithms"]
+	path = Optimisation-Algorithms
+	url = git@github.com:Imtjl/optimisation-methods.git
