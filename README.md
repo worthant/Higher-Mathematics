@@ -54,7 +54,9 @@ skills in Rust and Python and my understanding of efficient algorithm design.
 Hopefully it would help me in developing my own neural networks and solving
 practical transportation problems in the future.
 
-- [Course Repository](./Optimization_Methods/README.md)
+- [Course Repository](https://github.com/Imtjl/optimisation-methods/)
+
+
 
 ```
 it's okay to not understand
